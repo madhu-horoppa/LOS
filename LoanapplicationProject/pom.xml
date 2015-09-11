@@ -6,41 +6,6 @@
   <artifactId>LoanapplicationProject</artifactId>
   <version>1.0</version>
   <name>LoanapplicationProject</name>
-<dependencies>
-<dependency>
-	<groupId>org.drools</groupId>
-	<artifactId>drools-api</artifactId>
-	<version>5.1.1</version>
-</dependency>
-
-<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>servlet-api</artifactId>
-			<version>2.4</version>
-			<scope>provided</scope>
-		</dependency>
-<dependency>
-	<groupId>org.apache.jackrabbit</groupId>
-	<artifactId>jackrabbit-core</artifactId>
-	<version>2.11.0</version>
-</dependency>
-<dependency>
-	<groupId>javax.jcr</groupId>
-	<artifactId>jcr</artifactId>
-	<version>2.0</version>
-</dependency>
-<dependency>
-      <groupId>commons-io</groupId>
-	  <artifactId>commons-io</artifactId>
-      <version>1.4</version>
-    </dependency>
-    <dependency>
-	<groupId>org.apache.jackrabbit</groupId>
-	<artifactId>jackrabbit-jcr-rmi</artifactId>
-	<version>2.6.2</version>
-</dependency>
-
-</dependencies>
   <build>
     <plugins>
       <plugin>
